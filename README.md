@@ -1,1 +1,1 @@
-# CSC411 Software engineering project
+# CSC411 Software Engineering | project
