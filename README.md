@@ -18,6 +18,9 @@
 <p class="has-line-data" data-line-start="17" data-line-end="18">Output:</p>
 <ul>
 <li class="has-line-data" data-line-start="18" data-line-end="19">Booking confirmation, if booking is successful.</li>
-<li class="has-line-data" data-line-start="19" data-line-end="20">Reporting delivery status• Cancellation of booking confirmation.</li>
-<li class="has-line-data" data-line-start="20" data-line-end="21">Update record on delivery rescheduling• Update record and intimation on reward and penalty calculation• Query generation on record of past service, given a courier agency.</li>
+<li class="has-line-data" data-line-start="19" data-line-end="20">Reporting delivery status.</li>
+<li class="has-line-data" data-line-start="20" data-line-end="20">Cancellation of booking confirmation.</li>
+<li class="has-line-data" data-line-start="21" data-line-end="21">Update record on delivery rescheduling.</li>
+<li class="has-line-data" data-line-start="21" data-line-end="22">Update record and intimation on reward and penalty calculation.</li>
+<li class="has-line-data" data-line-start="21" data-line-end="23">Query generation on record of past service, given a courier agency.</li>
 </ul>
